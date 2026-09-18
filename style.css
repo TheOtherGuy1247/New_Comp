@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.navbar {
+    background-color: #000000;
+    Position: sticky;
+    top: 0;
+    z-index: 10000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav-container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 0px 20px;
+}
+
+#Brand-Logo {
+    color: red;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navlinks {
+    list-style: none;
+    display: flex;
+    color: #ffffff;
+    text-decoration: none;
+    
+}
+
+.navlinks li a{
+    list-style: none;
+    display: flex;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+}
