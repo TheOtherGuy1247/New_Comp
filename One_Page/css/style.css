@@ -42,7 +42,7 @@ body {
     margin: 0 1rem;
 }
 
-.navlinks:hover li a{
+.navlinks li a:hover{
     background: rgba(5, 169, 219);
     border-radius: 50px;
 }
