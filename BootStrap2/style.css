@@ -1,0 +1,82 @@
+.navbar {
+    background: #02ff00 !important;
+} 
+
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav {
+    color: black;
+    margin-right: 1rem;
+    position: relative;
+    left: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.carousel {
+    margin-top: 0px; 
+}
+
+.carousel-item h5 {
+    font-weight: bold;
+    font-size: 5rem;
+    text-align: left;
+}
+
+.carousel-item p {
+    font-size: 2rem;
+    font-weight: normal;
+    text-align: left;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    color:#ffff00 !important;
+}
+
+.carousel-item img {
+    opacity: 0.5;
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background: linear-gradient(0deg, black, #02ff00);
+}
+
+.meet-customers {
+    margin-top: 2rem;
+}
+
+.meet-customers h6 {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    color: #feffff;
+}
+
+.Filling h2{
+    text-align: left;
+    color: #00bbff;
+}
+.Filling h1{
+    text-align: left;
+    color: #ffff00;
+}
+.Filling p{
+    text-align: left;
+    color: #ffff00;
+}
+
+.text {
+    padding-top: 2rem;
+}
